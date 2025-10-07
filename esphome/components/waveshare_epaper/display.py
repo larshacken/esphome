@@ -111,7 +111,7 @@ WaveshareEPaper7P5InHDB = waveshare_epaper_ns.class_(
     "WaveshareEPaper7P5InHDB", WaveshareEPaper
 )
 WaveshareEPaper7P5InHDBWR = waveshare_epaper_ns.class_(
-    "WaveshareEPaper7P5InHDBWR", WaveshareEPaper
+    "WaveshareEPaper7P5InHDBWR", WaveshareEPaperBWR
 )
 WaveshareEPaper2P13InDKE = waveshare_epaper_ns.class_(
     "WaveshareEPaper2P13InDKE", WaveshareEPaper
